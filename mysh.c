@@ -24,7 +24,7 @@ int execute(char **args);
  * @author Nathaniel Israel
  * 
  */
-*/
+
 
 /**
  * @brief This function starts the shell, and figures out what mode it is 
